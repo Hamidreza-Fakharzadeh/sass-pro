@@ -1,0 +1,36 @@
+@import "../variables/Variable.scss";
+@import "../functions/Function.scss";
+
+.homeContainer {
+	display: grid;
+	grid-template-columns: 3fr 6fr 3fr;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	img {
+		width: 100%;
+
+		height: auto;
+	}
+	div {
+		@include funcFlex(column, center, center);
+		h5 {
+			margin: 3px;
+		}
+		p {
+			font-family: $bodyFont;
+			margin: 5px;
+
+		}
+	}
+}
+@media only screen and (min-width: 768px) {
+	.homeTxt {
+		h5 {
+			font-size: 50px;
+		}
+		p{
+			font-size:30px ;
+		}
+	}
+}

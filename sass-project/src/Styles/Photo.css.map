@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AAAA,MAAM,CAAC;EACN,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,MAAM,EAAE,MAAM;EACd,GAAG,EAAE,IAAI;EACT,SAAS,EAAE,MAAM;CAKjB;;AAVD,AAMC,MANK,CAML,GAAG,CAAC;EACH,KAAK,EAAE,IAAI;EACX,OAAO,EAAE,KAAK;CACd;;AAEF,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EACvC,AAAA,MAAM,CAAC;IACN,MAAM,EAAE,MAAM;IACd,SAAS,EAAE,KAAK;GAChB",
+    "sources": [
+        "Photo.scss",
+        "../variables/Variable.scss",
+        "../functions/Function.scss"
+    ],
+    "names": [],
+    "file": "Photo.css"
+}

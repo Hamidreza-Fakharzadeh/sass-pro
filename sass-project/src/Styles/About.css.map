@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAGA,AACC,MADK,CACL,GAAG,CAAC;EACH,UAAU,EAAE,MAAM;EAClB,WAAW,ECCF,KAAK,CAAC,GAAG,CAAC,KAAK,EAAE,KAAK,EAAE,KAAK;CDAtC;;AAEF,MAAM,MAAM,MAAM,MAAM,SAAS,EAAE,KAAK;EACvC,AAEE,MAFI,CACL,GAAG,CACF,EAAE,CAAC;IACF,SAAS,EAAE,IAAI;GACf",
+    "sources": [
+        "About.scss",
+        "../variables/Variable.scss",
+        "../functions/Function.scss"
+    ],
+    "names": [],
+    "file": "About.css"
+}
