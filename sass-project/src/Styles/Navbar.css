@@ -6,12 +6,22 @@
       -ms-flex-pack: center;
           justify-content: center;
   width: 100%;
-  height: 80px;
+  height: 70px;
   background: #1d0000;
 }
 
 .navbar img {
   width: 100%;
-  height: 100%;
+  height: 69px;
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar {
+    height: 90px;
+  }
+  .navbar img {
+    width: 100%;
+    height: 89px;
+  }
 }
 /*# sourceMappingURL=Navbar.css.map */
