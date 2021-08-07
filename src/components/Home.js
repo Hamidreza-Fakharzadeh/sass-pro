@@ -9,11 +9,12 @@ function Home() {
 			<img src={leftLogo} alt="rLogo" />
 			<div className="homeTxt">
 				<h5>M&M</h5>
-				<h5>RENOVAION</h5>
+				<h5>RENOVATION</h5>
 				<h5>LTD</h5>
 				<p>Tel: 020 8445 5468</p>
 				<p>Mobile: 07453 292010</p>
-				<p>Email:shahrouz74@yahoo.com</p>
+				<p>Mobile: 07838 776887</p>
+				<p>Email:MM.renovation.info@gmail.com</p>
 			</div>
 
 			<img src={rightLogo} alt="lLogo" />
