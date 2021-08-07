@@ -14,7 +14,9 @@ function Home() {
 				<p>Tel: 020 8445 5468</p>
 				<p>Mobile: 07453 292010</p>
 				<p>Mobile: 07838 776887</p>
-				<p>Email:MM.renovation.info@gmail.com</p>
+				<p>Email:</p>
+				<div>MM.renovation.info@gmail.com</div>
+
 			</div>
 
 			<img src={rightLogo} alt="lLogo" />
