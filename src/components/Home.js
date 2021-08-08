@@ -8,12 +8,12 @@ function Home() {
 		<div className="homeContainer">
 			<img src={leftLogo} alt="rLogo" />
 			<div className="homeTxt">
-				<h5>zzzz</h5>
+				<h5>M&M</h5>
 				<h5>RENOVATION</h5>
 				<h5>LTD</h5>
-				<p>Tel: 020  xxxxx</p>
-				<p>Mobile: xxxxx 292010</p>
-
+				<p>Tel: 020 8445 5468</p>
+				<p>Mobile: 07453 292010</p>
+				<p>Mobile: 07838 776887</p>
 				<p>Email:</p>
 				<div>MM.renovation.info@gmail.com</div>
 
